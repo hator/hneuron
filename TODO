@@ -1,0 +1,3 @@
+? Use Automatic Differentiation
+- Different activation functions (defined for every layer)
+- Different training modes
